@@ -34,5 +34,7 @@ Since we are going to be doing some data science and biotechnology work, we need
     2.  Type `Jupyter` in the search bar.
     3.  Look for the one by **Microsoft** (it should be the top result).
     4.  Click **Install**.
+    
+    ![Jupyter Extension](images/jupyter_extension.png)
 
 Once that's installed, you're ready to start running Python code in notebooks! 🚀
