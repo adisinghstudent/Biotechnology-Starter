@@ -1,6 +1,6 @@
 # Make Antigravity Your Own! 🎨
 
-(ps: hit `CMD + shift + V` to make this look good)
+(ps: hit `CMD + shift + V` to make .md files look good)
 
 Welcome to Antigravity! This is your new home for coding. Before we dive into the heavy lifting, let's make this place feel like *yours*.
 
@@ -47,3 +47,5 @@ Since we are going to be doing some data science and biotechnology work, we need
     <img src="images/jupyter_extension.png" width="300" />
 
 Once that's installed, you're ready to start running Python code in notebooks! 🚀
+
+(ps antigravity = vscode so any tutorial for vscode will work 'where things are etc')

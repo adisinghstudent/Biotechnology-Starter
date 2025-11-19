@@ -35,3 +35,15 @@ Now, let's get the code for this project onto your computer.
 Once cloned, **Google Antigravity** should ask if you want to open the repository. Click **Open**.
 
 Now you are ready to start learning! Open `Welcome.md` to customize your editor.
+
+## 4. Setup Your Editor 🛠️
+
+To get the best experience, make sure your editor looks like this:
+
+1.  **Be in Editor Mode**: Ensure you are in the standard code editing view.
+2.  **Close Agent Manager**: Do not click "Open Agent Manager".
+3.  **Simplify the View**: Close all buttons/sidebars beside the Agent Manager for simplicity.
+
+Your setup should look exactly like this:
+
+![Editor Setup](images/setup_screenshot.png)
