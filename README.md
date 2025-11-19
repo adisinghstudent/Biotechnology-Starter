@@ -47,3 +47,15 @@ To get the best experience, make sure your editor looks like this:
 Your setup should look exactly like this:
 
 ![Editor Setup](images/setup_screenshot.png)
+
+## 5. Your Learning Path 🎓
+
+Follow this order to become a biotech pro:
+
+1.  **Start with `Welcome.md`**: This file will help you customize your editor and make it yours.
+2.  **Read `Biotech.md`**: Get inspired! Read about the future of biotechnology and why it matters.
+3.  **Dive into the Notebooks**:
+    *   `01_Jupyter_Basics.ipynb`: Learn the tools of the trade.
+    *   `02_Biotech_Project.ipynb`: Do your first data science project!
+
+> **Pro Tip**: When you open a `.md` (Markdown) file, hit `Cmd + Shift + V` to see the pretty preview version! ✨
